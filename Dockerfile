@@ -1,0 +1,50 @@
+# Tags: 578e874e4bc20a412998cc4122d6366839ff712c
+FROM mozilla/merino:578e874e4bc20a412998cc4122d6366839ff712c
+
+# Tags: 318fdc273e559dc357b7a17e075c300100ce7330
+FROM mozilla/merino:318fdc273e559dc357b7a17e075c300100ce7330
+
+# Tags: 0cf520c9538ad039383802e0250ef127124022ce
+FROM mozilla/merino:0cf520c9538ad039383802e0250ef127124022ce
+
+# Tags: 896e37d4f8d91de0001be93b2c93afe8e860c3fa
+FROM mozilla/merino:896e37d4f8d91de0001be93b2c93afe8e860c3fa
+
+# Tags: 21a864564a00f696ee6b0738a5b7b109b14920c3
+FROM mozilla/merino:21a864564a00f696ee6b0738a5b7b109b14920c3
+
+# Tags: 364a92c353087c852906fddd0678c76c4e539af7
+FROM mozilla/merino:364a92c353087c852906fddd0678c76c4e539af7
+
+# Tags: e6322184e1ef71251765cc360a64140ee5ed83a3
+FROM mozilla/merino:e6322184e1ef71251765cc360a64140ee5ed83a3
+
+# Tags: 9a115c610735196adfb73b49b094940e118601fd
+FROM mozilla/merino:9a115c610735196adfb73b49b094940e118601fd
+
+# Tags: v0.5.0
+FROM mozilla/merino:v0.5.0
+
+# Tags: 18f9163bc3f957dbbe0f52014015cb53e25455cb
+FROM mozilla/merino:18f9163bc3f957dbbe0f52014015cb53e25455cb
+
+# Tags: 9d1f881fc51014ac72d772cdb94d2e1955dbb196
+FROM mozilla/merino:9d1f881fc51014ac72d772cdb94d2e1955dbb196
+
+# Tags: e321f569961e7f8733f15d9dbbd743b116eb0b57
+FROM mozilla/merino:e321f569961e7f8733f15d9dbbd743b116eb0b57
+
+# Tags: 52a44faa0feaa43f38fcb780c5b3ef73751bdffe
+FROM mozilla/merino:52a44faa0feaa43f38fcb780c5b3ef73751bdffe
+
+# Tags: 01aae222ca514df81ceffaf50bb509478b495c34
+FROM mozilla/merino:01aae222ca514df81ceffaf50bb509478b495c34
+
+# Tags: 6de1493548e285975f0bf5fffa5a166a68657cad
+FROM mozilla/merino:6de1493548e285975f0bf5fffa5a166a68657cad
+
+# Tags: v0.4.4
+FROM mozilla/merino:v0.4.4
+
+# Tags: f7e9c5afa23eb1f5d3617a83f54d2ee9b9eb1a86
+FROM mozilla/merino:f7e9c5afa23eb1f5d3617a83f54d2ee9b9eb1a86
