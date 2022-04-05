@@ -7,6 +7,3 @@ FROM mozilla/merino:e7bd645a8efdd4f14d30ff7425cdb83f9f438891
 
 # Tags: 31acb2ac273dd140e0888f2f35ed174614142aa2
 FROM mozilla/merino:31acb2ac273dd140e0888f2f35ed174614142aa2
-
-# Tags: cfdd68dc6f6461e583241bc0f0097947199d986f
-FROM mozilla/merino:cfdd68dc6f6461e583241bc0f0097947199d986f
